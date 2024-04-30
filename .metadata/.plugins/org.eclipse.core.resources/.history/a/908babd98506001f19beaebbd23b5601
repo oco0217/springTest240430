@@ -1,0 +1,33 @@
+console.log("boardModify.js in");
+// fileDao에서 요청에서 DB에서 지워서 목록에 안나오게
+//파일 form 태그 안에 있어야됌
+
+//서버에 통신 
+async function removeFileToSever(fileUUID){
+
+    const url = '/board/'+fileUUID;
+    const config = {
+        method : 'delete'   
+    }
+    const resp = await fetch(rul, config);
+    const result = await resp.text();
+
+    return result;
+
+}
+
+document.addEventListener('click',(e)=>{
+
+    if(e.target.classList.contains('file-x')){
+
+        let uuid = e.target.dataset.uuid;
+        // console.log(uuid);
+        removeFileToSever(uuid).then(result=>{
+            if(result === '1'){
+                alert('파일 삭제 완료');
+            }
+        })
+
+    }
+
+});

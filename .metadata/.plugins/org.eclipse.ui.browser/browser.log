@@ -1,0 +1,578 @@
+
+4월 23, 2024 15:30:50.620 NEW SESSION
+4월 23, 2024 15:30:50.620 [4460:14676:0423/153050.619:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 15:30:52.860 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 23, 2024 15:30:53.650 [4460:14676:0423/153053.650:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 15:39:15.577 [9676:8752:0423/153915.577:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 15:39:17.818 [9676:8752:0423/153917.818:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 15:41:48.984 [12516:15012:0423/154148.984:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 15:41:51.196 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 23, 2024 15:49:51.726 [12516:15012:0423/154951.726:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 15:50:13.299 [15188:4392:0423/155013.299:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 15:50:15.559 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 23, 2024 16:40:17.302 NEW SESSION
+4월 23, 2024 16:40:17.303 [5604:13136:0423/164017.301:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 16:40:19.573 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 23, 2024 16:40:20.772 [5604:13136:0423/164020.772:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 16:45:24.958 [8000:7576:0423/164524.958:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 16:45:27.171 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 23, 2024 16:45:30.884 [8000:7576:0423/164530.884:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 16:54:23.893 [1552:11836:0423/165423.893:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 16:54:26.106 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 23, 2024 16:54:26.657 [1552:11836:0423/165426.657:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 16:56:29.271 [1208:13884:0423/165629.270:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 16:56:30.806 [1208:13884:0423/165630.806:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 16:56:50.431 [10176:12896:0423/165650.430:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 16:56:51.900 [10176:12896:0423/165651.900:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 17:41:45.212 [8416:7132:0423/174145.212:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 23, 2024 17:41:46.584 [8416:7132:0423/174146.584:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+
+4월 24, 2024 09:32:21.339 NEW SESSION
+4월 24, 2024 09:32:21.339 [4828:6056:0424/093221.339:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 09:32:21.511 [4828:6056:0424/093221.511:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+4월 24, 2024 09:32:23.910 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 09:32:24.742 [4828:6056:0424/093224.742:ERROR:extension_registrar.cc(539)] Failed to unregister service worker for extension eppiocemhmnlbhjplcgkofciiegomcon
+4월 24, 2024 09:32:39.699 [4828:6056:0424/093239.699:ERROR:device_event_log_impl.cc(192)] [09:32:39.689] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 24, 2024 09:32:51.239 [4828:6056:0424/093251.239:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 09:50:50.374 [9744:9728:0424/095050.374:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 09:50:52.674 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 09:52:43.409 [9744:9728:0424/095243.408:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 09:56:33.347 [7544:10072:0424/095633.347:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 09:56:35.549 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 10:14:31.711 [7544:10072:0424/101431.711:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 10:14:42.676 [4968:4800:0424/101442.676:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 10:14:44.851 [4968:4800:0424/101444.851:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 10:14:57.672 [9300:2840:0424/101457.672:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 10:15:00.441 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 10:23:24.183 [9300:2840:0424/102324.183:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 10:23:32.265 [11164:11132:0424/102332.265:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 10:23:34.754 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 10:24:24.64 [11164:11132:0424/102424.064:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 10:24:28.614 [9316:5152:0424/102428.614:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 10:24:31.271 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 10:54:18.879 [9316:5152:0424/105418.879:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 10:54:41.754 [8804:10076:0424/105441.754:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 10:54:44.619 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 24, 2024 11:09:14.488 NEW SESSION
+4월 24, 2024 11:09:14.488 [5136:6948:0424/110914.487:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 11:09:16.759 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 11:10:51.43 [5136:6948:0424/111051.043:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 11:10:55.241 [4936:7172:0424/111055.241:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 11:10:57.455 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 11:18:18.857 [4936:7172:0424/111818.857:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 13:05:24.801 [5712:8584:0424/130524.801:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 13:05:27.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 14:15:28.849 [5712:8584:0424/141528.849:ERROR:device_event_log_impl.cc(192)] [14:15:28.849] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 24, 2024 14:30:05.761 [5712:8584:0424/143005.761:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 14:32:24.841 [7472:11928:0424/143224.841:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 14:32:27.349 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 14:34:08.894 [7472:11928:0424/143408.894:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 14:34:14.428 [4472:12148:0424/143414.428:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 14:34:16.654 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 14:37:28.905 [4472:12148:0424/143728.905:ERROR:device_event_log_impl.cc(192)] [14:37:28.905] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 24, 2024 14:42:30.594 [4472:12148:0424/144230.594:ERROR:device_event_log_impl.cc(192)] [14:42:30.594] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 24, 2024 14:45:28.308 [4472:12148:0424/144528.307:ERROR:device_event_log_impl.cc(192)] [14:45:28.308] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 24, 2024 14:45:57.177 [4472:12148:0424/144557.177:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+
+4월 24, 2024 14:59:29.779 NEW SESSION
+4월 24, 2024 14:59:29.779 [11984:8500:0424/145929.778:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 14:59:32.53 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 15:00:36.812 [11984:8500:0424/150036.812:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:00:44.226 [5728:8332:0424/150044.226:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:00:47.103 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 15:01:45.318 [5728:8332:0424/150145.318:ERROR:device_event_log_impl.cc(192)] [15:01:45.317] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 24, 2024 15:01:55.289 [5728:8332:0424/150155.289:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:02:41.900 [11636:2624:0424/150241.899:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:02:45.16 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 15:20:40.308 [11636:2624:0424/152040.308:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:20:48.366 [10624:5440:0424/152048.366:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:20:51.442 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 15:34:51.00 [10624:5440:0424/153451.000:ERROR:device_event_log_impl.cc(192)] [15:34:51.000] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 24, 2024 15:36:31.996 [10624:5440:0424/153631.996:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:36:39.929 [10428:8548:0424/153639.929:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:36:42.829 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 15:39:42.19 [10428:8548:0424/153942.019:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:41:22.832 [8476:7960:0424/154122.832:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:41:25.720 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 15:52:32.783 [8476:7960:0424/155232.783:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:52:39.180 [2800:9820:0424/155239.179:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 15:52:41.398 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 16:11:52.145 [2800:9820:0424/161152.145:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 16:13:48.536 [756:5180:0424/161348.535:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 16:13:50.746 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 16:15:13.643 [756:5180:0424/161513.643:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 16:15:20.188 [2356:11092:0424/161520.188:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 16:15:22.394 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 16:16:41.171 [2356:11092:0424/161641.171:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 16:16:47.631 [11728:11536:0424/161647.631:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 16:16:49.846 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 16:44:24.28 [11728:11536:0424/164424.028:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 16:48:52.598 [8656:11664:0424/164852.598:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 16:48:55.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 16:50:04.724 [8656:11664:0424/165004.724:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 16:50:09.127 [2744:6504:0424/165009.127:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 16:50:11.102 [2744:6504:0424/165011.102:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 17:04:37.50 [7508:10444:0424/170437.050:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 17:04:39.797 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 24, 2024 17:07:39.718 [7508:10444:0424/170739.717:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 18:02:03.159 [6204:7212:0424/180203.159:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 24, 2024 18:02:06.245 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 25, 2024 09:18:45.322 NEW SESSION
+4월 25, 2024 09:18:45.322 [2304:2328:0425/091845.321:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 09:18:48.282 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 09:20:51.878 [2304:2328:0425/092051.878:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 09:21:00.28 [1524:11916:0425/092100.028:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 09:21:02.318 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 09:23:36.858 [1524:11916:0425/092336.858:ERROR:device_event_log_impl.cc(192)] [09:23:36.858] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 25, 2024 09:32:22.503 [1524:11916:0425/093222.503:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+4월 25, 2024 09:39:06.774 [1524:11916:0425/093906.774:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 09:40:48.890 [4812:1404:0425/094048.890:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 09:40:51.118 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 09:54:24.417 [4812:1404:0425/095424.416:ERROR:device_event_log_impl.cc(192)] [09:54:24.417] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 25, 2024 09:56:48.636 [4812:1404:0425/095648.636:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:13:36.551 [6424:6608:0425/101336.551:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:13:38.790 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 10:14:57.630 [6424:6608:0425/101457.630:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:15:04.91 [12184:7300:0425/101504.091:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:15:06.350 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 10:40:14.84 [12184:7300:0425/104014.084:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:40:21.280 [9176:9084:0425/104021.280:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:40:23.874 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 10:46:20.776 [9176:9084:0425/104620.776:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:46:27.363 [1256:6416:0425/104627.363:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:46:29.637 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 10:47:16.689 [1256:6416:0425/104716.689:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:47:43.578 [2512:4160:0425/104743.578:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:47:45.790 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 10:48:25.668 [2512:4160:0425/104825.668:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:48:39.309 [6908:5920:0425/104839.309:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:48:41.574 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 10:59:07.262 [6908:5920:0425/105907.262:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:59:13.592 [9748:5344:0425/105913.591:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 10:59:16.410 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 11:05:16.158 [9748:5344:0425/110516.158:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 11:05:23.236 [9168:9348:0425/110523.236:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 11:05:26.200 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 11:08:32.209 [9168:9348:0425/110832.209:ERROR:device_event_log_impl.cc(192)] [11:08:32.209] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 25, 2024 11:09:31.674 [9168:9348:0425/110931.674:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 11:09:37.20 [7724:9088:0425/110937.020:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 11:09:39.228 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 12:04:01.18 [7724:9088:0425/120401.018:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:04:08.453 [9332:11116:0425/120408.452:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:04:10.221 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 12:05:53.464 [9332:11116:0425/120553.464:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:06:01.892 [10328:4300:0425/120601.892:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:06:04.102 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 12:08:39.723 [10328:4300:0425/120839.723:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:08:45.12 [11284:9628:0425/120845.012:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:08:48.264 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 12:15:44.261 [11284:9628:0425/121544.261:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:15:44.692 [7060:8200:0425/121544.692:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:15:47.347 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 12:16:47.124 [7060:8200:0425/121647.124:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:16:53.486 [2040:824:0425/121653.486:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:16:55.685 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 12:17:32.695 [2040:824:0425/121732.695:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:17:39.270 [6192:8816:0425/121739.270:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:17:41.938 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 12:36:10.810 [6192:8816:0425/123610.810:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:36:16.134 [8944:11540:0425/123616.133:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:36:18.348 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 12:43:54.194 [8944:11540:0425/124354.194:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:44:01.222 [11688:2584:0425/124401.222:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 12:44:03.417 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 12:54:37.669 [11688:2584:0425/125437.669:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2024 12:54:43.54 [11688:2584:0425/125443.054:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2024 12:54:49.592 [11688:2584:0425/125449.592:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2024 12:54:52.626 [11688:2584:0425/125452.626:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2024 12:56:20.509 [11688:2584:0425/125620.509:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2024 12:57:38.386 [11688:2584:0425/125738.386:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2024 14:32:58.972 [11688:2584:0425/143258.972:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 14:54:50.397 [10988:8164:0425/145450.397:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 14:54:52.619 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 14:59:46.267 [10988:8164:0425/145946.267:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 14:59:52.114 [8452:11756:0425/145952.113:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 14:59:54.368 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:00:50.199 [8452:11756:0425/150050.199:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:01:49.280 [9480:9116:0425/150149.280:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:01:52.640 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:02:00.708 [9480:9116:0425/150200.708:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:02:25.170 [8544:5604:0425/150225.170:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:02:28.08 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:02:29.903 [8544:5604:0425/150229.903:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:03:08.243 [8356:5924:0425/150308.243:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:03:10.743 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:03:16.547 [8356:5924:0425/150316.547:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:03:53.281 [9408:10548:0425/150353.281:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:03:55.497 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:04:33.444 [9408:10548:0425/150433.444:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:04:39.244 [4784:5328:0425/150439.244:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:04:41.445 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:06:06.621 [4784:5328:0425/150606.621:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:06:12.695 [3904:6244:0425/150612.695:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:06:15.711 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:06:21.63 [3904:6244:0425/150621.063:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:07:13.630 [11652:11012:0425/150713.630:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:07:15.909 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:07:21.508 [11652:11012:0425/150721.507:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:08:33.214 [8940:6940:0425/150833.214:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:08:35.602 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:08:37.374 [8940:6940:0425/150837.373:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+
+4월 25, 2024 15:09:08.04 NEW SESSION
+4월 25, 2024 15:09:08.04 [11984:8672:0425/150908.004:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:09:10.806 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:10:54.684 [11984:8672:0425/151054.684:ERROR:device_event_log_impl.cc(192)] [15:10:54.684] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+
+4월 25, 2024 15:11:29.167 NEW SESSION
+4월 25, 2024 15:11:29.167 [5324:6100:0425/151129.167:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:11:31.441 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:13:36.817 [5324:6100:0425/151336.817:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:13:45.93 [3640:4440:0425/151345.093:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:13:47.373 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:31:21.713 [3640:4440:0425/153121.713:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:31:34.172 [10932:6200:0425/153134.172:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 15:31:36.452 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 15:32:47.141 [10932:6200:0425/153247.141:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 16:07:40.710 [10548:4404:0425/160740.710:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 16:07:42.914 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 16:11:27.995 [10548:4404:0425/161127.995:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 16:11:37.718 [11224:2476:0425/161137.717:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 16:11:39.966 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 16:45:22.874 [11224:2476:0425/164522.874:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 16:45:29.283 [11752:11896:0425/164529.283:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 16:45:31.509 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:03:44.818 [11752:11896:0425/170344.818:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:03:51.359 [7712:11280:0425/170351.359:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:03:53.589 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:03:54.763 [7712:11280:0425/170354.763:ERROR:device_event_log_impl.cc(192)] [17:03:54.762] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 25, 2024 17:05:45.227 [7712:11280:0425/170545.227:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:05:51.138 [10340:4220:0425/170551.138:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:05:53.354 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:06:53.652 [10340:4220:0425/170653.651:ERROR:device_event_log_impl.cc(192)] [17:06:53.651] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 25, 2024 17:07:32.244 [10340:4220:0425/170732.244:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:07:44.789 [4308:11784:0425/170744.789:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:07:47.164 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:10:16.239 [4308:11784:0425/171016.239:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:10:23.594 [8456:10612:0425/171023.594:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:10:25.816 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:11:19.987 [8456:10612:0425/171119.987:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:11:26.118 [2500:10372:0425/171126.118:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:11:28.361 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:13:49.644 [2500:10372:0425/171349.644:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:13:55.476 [9332:6696:0425/171355.476:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:13:58.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:14:04.491 [9332:6696:0425/171404.491:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2024 17:19:42.119 [9332:6696:0425/171942.119:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:19:49.321 [1976:8292:0425/171949.320:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:19:52.378 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:32:39.978 [1976:8292:0425/173239.978:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:33:30.29 [6860:2296:0425/173330.029:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:33:33.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:33:38.459 [6860:2296:0425/173338.459:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2024 17:35:31.782 [6860:2296:0425/173531.782:ERROR:device_event_log_impl.cc(192)] [17:35:31.782] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 25, 2024 17:36:59.71 [6860:2296:0425/173659.071:ERROR:device_event_log_impl.cc(192)] [17:36:59.072] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 25, 2024 17:47:34.280 [6860:2296:0425/174734.279:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2024 17:47:59.825 [6860:2296:0425/174759.825:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:48:06.658 [11560:11684:0425/174806.658:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:48:08.934 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:48:45.188 [11560:11684:0425/174845.188:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:48:53.410 [6204:8924:0425/174853.410:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 17:48:56.32 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 17:50:43.353 [6204:8924:0425/175043.353:ERROR:device_event_log_impl.cc(192)] [17:50:43.353] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 25, 2024 17:52:02.230 [6204:8924:0425/175202.230:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2024 17:55:12.849 [6204:8924:0425/175512.849:ERROR:device_event_log_impl.cc(192)] [17:55:12.848] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 25, 2024 17:58:55.56 [6204:8924:0425/175855.056:ERROR:device_event_log_impl.cc(192)] [17:58:55.056] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 25, 2024 18:13:06.165 [6204:8924:0425/181306.165:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 18:21:32.915 [11784:4928:0425/182132.914:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 18:21:35.173 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 18:22:19.657 [11784:4928:0425/182219.657:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 18:22:25.433 [5292:10416:0425/182225.433:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 25, 2024 18:22:27.713 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2024 18:24:05.154 [5292:10416:0425/182405.154:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+
+4월 26, 2024 09:17:53.217 NEW SESSION
+4월 26, 2024 09:17:53.217 [1840:1260:0426/091753.216:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 09:17:55.482 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 09:32:23.742 [1840:1260:0426/093223.742:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+4월 26, 2024 09:44:02.193 [1840:1260:0426/094402.193:ERROR:device_event_log_impl.cc(192)] [09:44:02.194] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 09:44:17.349 [1840:1260:0426/094417.349:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 26, 2024 09:52:31.596 [1840:1260:0426/095231.596:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 09:52:38.10 [8064:11232:0426/095238.010:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 09:52:40.308 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 09:58:22.925 [8064:11232:0426/095822.924:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:23.29 [8064:11232:0426/095823.028:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:23.131 [8064:11232:0426/095823.130:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:23.232 [8064:11232:0426/095823.232:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:23.339 [8064:11232:0426/095823.339:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:23.439 [8064:11232:0426/095823.439:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:23.544 [8064:11232:0426/095823.544:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:23.685 [8064:11232:0426/095823.685:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:23.786 [8064:11232:0426/095823.786:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:24.38 [8064:11232:0426/095824.038:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:24.146 [8064:11232:0426/095824.146:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:24.269 [8064:11232:0426/095824.269:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:24.621 [8064:11232:0426/095824.621:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:24.762 [8064:11232:0426/095824.762:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:24.989 [8064:11232:0426/095824.989:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:25.756 [8064:11232:0426/095825.756:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:26.547 [8064:11232:0426/095826.547:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:26.676 [8064:11232:0426/095826.676:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 09:58:28.247 [8064:11232:0426/095828.247:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.839 s for first_image_paint 0.837 s
+4월 26, 2024 10:08:02.31 [8064:11232:0426/100802.030:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:08:11.195 [9788:11024:0426/100811.195:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:08:13.468 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 10:13:14.141 [9788:11024:0426/101314.141:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:13:21.238 [10744:516:0426/101321.238:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:13:23.813 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 10:16:00.606 [10744:516:0426/101600.606:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:16:07.87 [3576:9196:0426/101607.087:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:16:09.367 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 10:44:13.355 [3576:9196:0426/104413.355:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:44:19.478 [11208:10468:0426/104419.478:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:44:22.181 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 10:47:01.109 [11208:10468:0426/104701.109:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:47:06.827 [6288:7020:0426/104706.827:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:47:09.65 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 10:47:40.804 [6288:7020:0426/104740.804:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:47:46.869 [10660:10228:0426/104746.869:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 10:47:49.179 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 11:30:41.602 [10660:10228:0426/113041.602:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 12:06:14.518 [7804:9604:0426/120614.518:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 12:06:16.734 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 12:51:56.932 [7804:9604:0426/125156.932:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 12:52:05.686 [5580:5088:0426/125205.686:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 12:52:08.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 12:53:13.163 [5580:5088:0426/125313.163:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 12:53:38.875 [9788:1252:0426/125338.875:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 12:53:41.151 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 12:54:00.401 [9788:1252:0426/125400.401:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 13:07:50.356 [2096:8492:0426/130750.356:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 13:07:52.632 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 13:09:01.32 [2096:8492:0426/130901.032:ERROR:device_event_log_impl.cc(192)] [13:09:01.032] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 13:11:26.866 [2096:8492:0426/131126.866:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 13:11:36.413 [9804:10960:0426/131136.413:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 13:11:38.692 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 13:12:50.159 [9804:10960:0426/131250.159:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 13:13:02.435 [13016:11972:0426/131302.435:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 13:13:05.147 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 13:30:14.818 [13016:11972:0426/133014.818:ERROR:device_event_log_impl.cc(192)] [13:30:14.818] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 14:12:13.42 [13016:11972:0426/141213.042:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:12:33.517 [1340:8008:0426/141233.516:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:12:36.368 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 14:18:26.743 [1340:8008:0426/141826.743:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:18:32.540 [12108:1188:0426/141832.540:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:18:35.171 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 14:19:47.351 [12108:1188:0426/141947.351:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:19:54.654 [12868:2000:0426/141954.654:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:19:56.946 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 14:28:33.237 [12868:2000:0426/142833.237:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:28:39.241 [2784:13284:0426/142839.241:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:28:41.721 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 14:28:42.70 [2784:13284:0426/142842.070:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:28:48.652 [12508:10948:0426/142848.652:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:28:50.927 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 14:31:35.794 [12508:10948:0426/143135.794:ERROR:device_event_log_impl.cc(192)] [14:31:35.793] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 14:32:20.262 [12508:10948:0426/143220.262:ERROR:device_event_log_impl.cc(192)] [14:32:20.262] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 14:40:18.743 [12508:10948:0426/144018.743:ERROR:device_event_log_impl.cc(192)] [14:40:18.743] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 14:41:24.969 [12508:10948:0426/144124.969:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:41:27.766 [1792:9740:0426/144127.766:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:41:30.863 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 14:41:41.436 [1792:9740:0426/144141.436:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:41:54.594 [12648:9156:0426/144154.593:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:41:56.925 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 14:43:29.141 [12648:9156:0426/144329.141:ERROR:device_event_log_impl.cc(192)] [14:43:29.140] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 14:48:08.214 [12648:9156:0426/144808.214:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:48:42.239 [2064:5368:0426/144842.239:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:48:45.33 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 14:49:02.69 [2064:5368:0426/144902.069:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:51:27.513 [13020:10348:0426/145127.513:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 14:51:30.789 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 15:41:03.523 [13020:10348:0426/154103.523:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 15:47:35.736 [11500:8472:0426/154735.736:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 15:47:38.338 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 16:02:10.456 [11500:8472:0426/160210.456:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:02:16.153 [8308:6476:0426/160216.153:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:02:18.884 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 16:13:50.544 [8308:6476:0426/161350.544:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:14:02.737 [6676:13280:0426/161402.737:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:14:05.273 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 16:27:04.525 [6676:13280:0426/162704.525:ERROR:device_event_log_impl.cc(192)] [16:27:04.524] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 16:45:17.497 [6676:13280:0426/164517.497:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+
+4월 26, 2024 16:49:56.459 NEW SESSION
+4월 26, 2024 16:49:56.459 [5724:8600:0426/164956.458:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:49:59.39 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 16:50:00.590 [5724:8600:0426/165000.590:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:50:30.565 [7100:3396:0426/165030.565:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:50:33.126 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 16:50:36.940 [7100:3396:0426/165036.940:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:51:14.87 [1212:10576:0426/165114.086:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:51:16.961 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 16:53:30.648 [1212:10576:0426/165330.648:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:53:48.824 [3552:9452:0426/165348.824:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 16:53:51.137 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 17:00:00.479 [3552:9452:0426/170000.479:ERROR:device_event_log_impl.cc(192)] [17:00:00.479] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 17:01:12.103 [3552:9452:0426/170112.103:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:01:20.830 [6964:6884:0426/170120.830:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:01:23.56 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 17:02:19.693 [6964:6884:0426/170219.693:ERROR:device_event_log_impl.cc(192)] [17:02:19.692] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 17:03:44.04 [6964:6884:0426/170344.004:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:03:51.928 [13236:12900:0426/170351.928:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:03:54.225 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 17:04:20.70 [13236:12900:0426/170420.069:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:04:26.354 [12536:7028:0426/170426.353:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:04:28.971 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 17:07:13.959 [12536:7028:0426/170713.959:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 26, 2024 17:08:11.266 [12536:7028:0426/170811.266:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:08:18.163 [7536:1172:0426/170818.163:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:08:20.805 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 17:09:14.531 [7536:1172:0426/170914.531:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:09:22.80 [11044:11528:0426/170922.079:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:09:24.865 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 17:09:42.591 [11044:11528:0426/170942.591:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:10:24.472 [3056:6608:0426/171024.472:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:10:27.151 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 17:11:05.270 [3056:6608:0426/171105.270:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:11:14.560 [356:11844:0426/171114.560:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 26, 2024 17:11:17.238 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 26, 2024 17:11:58.337 [356:11844:0426/171158.337:ERROR:device_event_log_impl.cc(192)] [17:11:58.337] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 17:16:40.926 [356:11844:0426/171640.926:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 26, 2024 17:17:46.747 [356:11844:0426/171746.747:ERROR:device_event_log_impl.cc(192)] [17:17:46.746] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 17:19:06.864 [356:11844:0426/171906.864:ERROR:device_event_log_impl.cc(192)] [17:19:06.864] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 26, 2024 17:36:55.389 [356:11844:0426/173655.389:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+
+4월 29, 2024 09:42:06.798 NEW SESSION
+4월 29, 2024 09:42:06.798 [6816:8784:0429/094206.797:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 09:42:09.925 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 09:43:04.898 [6816:8784:0429/094304.898:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 10:19:36.427 [3348:8996:0429/101936.427:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 10:19:39.632 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 10:35:57.173 [3348:8996:0429/103557.173:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 29, 2024 10:40:41.959 [3348:8996:0429/104041.959:ERROR:device_event_log_impl.cc(192)] [10:40:41.959] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 10:46:50.150 [3348:8996:0429/104650.150:ERROR:device_event_log_impl.cc(192)] [10:46:50.150] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 11:10:04.265 [3348:8996:0429/111004.265:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 11:10:11.425 [2792:4308:0429/111011.425:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 11:10:13.877 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 11:15:05.789 [2792:4308:0429/111505.789:ERROR:device_event_log_impl.cc(192)] [11:15:05.789] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 11:17:04.746 [2792:4308:0429/111704.746:ERROR:device_event_log_impl.cc(192)] [11:17:04.746] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 11:34:52.204 [2792:4308:0429/113452.204:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 11:34:55.846 [11240:5012:0429/113455.846:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 11:34:59.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 11:43:36.83 [11240:5012:0429/114336.083:ERROR:device_event_log_impl.cc(192)] [11:43:36.083] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 11:47:00.75 [11240:5012:0429/114700.075:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 11:47:11.665 [10432:10500:0429/114711.665:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 11:47:13.865 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 11:52:29.331 [10432:10500:0429/115229.331:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 11:52:33.515 [10912:6096:0429/115233.515:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 11:52:35.903 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 12:32:26.555 [10912:6096:0429/123226.555:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 29, 2024 12:53:42.350 [10912:6096:0429/125342.350:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 12:53:55.246 [4988:11016:0429/125355.246:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 12:53:57.457 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 12:55:59.515 [4988:11016:0429/125559.515:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 12:56:27.608 [6516:10008:0429/125627.608:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 12:56:30.399 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 12:59:14.119 [6516:10008:0429/125914.118:ERROR:device_event_log_impl.cc(192)] [12:59:14.118] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 15:23:52.155 [6516:10008:0429/152352.155:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 15:23:58.936 [10468:724:0429/152358.936:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 15:24:02.105 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 15:28:41.181 [10468:724:0429/152841.181:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 15:28:47.90 [7032:9688:0429/152847.090:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 15:28:50.80 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 15:29:24.323 [7032:9688:0429/152924.323:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 15:29:43.137 [1344:8476:0429/152943.137:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 15:29:46.137 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 15:32:13.92 [1344:8476:0429/153213.092:ERROR:device_event_log_impl.cc(192)] [15:32:13.092] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 15:37:05.292 [1344:8476:0429/153705.292:ERROR:device_event_log_impl.cc(192)] [15:37:05.292] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 15:41:14.703 [1344:8476:0429/154114.702:ERROR:device_event_log_impl.cc(192)] [15:41:14.702] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 15:44:41.418 [1344:8476:0429/154441.418:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 29, 2024 15:53:19.576 [1344:8476:0429/155319.575:ERROR:device_event_log_impl.cc(192)] [15:53:19.576] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 16:00:43.823 [1344:8476:0429/160043.823:ERROR:device_event_log_impl.cc(192)] [16:00:43.822] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 16:05:46.389 [1344:8476:0429/160546.389:ERROR:device_event_log_impl.cc(192)] [16:05:46.389] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 16:06:24.45 [1344:8476:0429/160624.045:ERROR:device_event_log_impl.cc(192)] [16:06:24.045] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 16:17:19.801 [1344:8476:0429/161719.801:ERROR:device_event_log_impl.cc(192)] [16:17:19.801] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 16:33:59.199 [1344:8476:0429/163359.199:ERROR:device_event_log_impl.cc(192)] [16:33:59.199] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 16:47:33.710 [1344:8476:0429/164733.710:ERROR:device_event_log_impl.cc(192)] [16:47:33.711] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 16:56:50.836 [1344:8476:0429/165650.836:ERROR:device_event_log_impl.cc(192)] [16:56:50.836] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 17:18:03.581 [1344:8476:0429/171803.581:ERROR:device_event_log_impl.cc(192)] [17:18:03.581] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 17:39:20.902 [1344:8476:0429/173920.902:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 17:39:30.214 [11340:2816:0429/173930.214:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 17:39:32.617 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 17:45:36.226 [11340:2816:0429/174536.226:ERROR:device_event_log_impl.cc(192)] [17:45:36.226] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 29, 2024 17:49:55.109 [11340:2816:0429/174955.109:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 17:50:01.201 [9468:5164:0429/175001.200:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 17:50:04.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 18:13:59.706 [9468:5164:0429/181359.706:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Unsupported URL scheme"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+4월 29, 2024 18:14:01.222 [9468:5164:0429/181401.222:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 18:14:08.775 [12012:10776:0429/181408.775:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 29, 2024 18:14:11.315 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 29, 2024 18:23:16.841 [12012:10776:0429/182316.840:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+
+4월 30, 2024 09:08:09.107 NEW SESSION
+4월 30, 2024 09:08:09.107 [5684:5688:0430/090809.107:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 09:08:12.835 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 09:37:49.858 [5684:5688:0430/093749.858:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+4월 30, 2024 09:38:14.295 [5684:5688:0430/093814.295:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 09:38:20.793 [6556:6564:0430/093820.792:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 09:38:23.558 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 09:40:55.187 [6556:6564:0430/094055.187:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 09:48:36.363 [11148:6876:0430/094836.363:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 09:48:38.699 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 09:57:29.787 [11148:6876:0430/095729.787:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:03:01.452 [3640:6208:0430/100301.452:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:03:03.677 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 10:38:35.654 [3640:6208:0430/103835.654:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:38:41.888 [7824:10260:0430/103841.888:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:38:44.186 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 10:39:26.754 [7824:10260:0430/103926.754:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:45:34.101 [564:624:0430/104534.101:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:45:36.461 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 10:45:57.520 [564:624:0430/104557.520:ERROR:device_event_log_impl.cc(192)] [10:45:57.520] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 30, 2024 10:47:54.714 [564:624:0430/104754.714:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:55:08.887 [10568:10284:0430/105508.887:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:55:11.108 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 10:56:34.274 [10568:10284:0430/105634.273:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:56:40.750 [2140:2468:0430/105640.750:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:56:43.133 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 10:57:00.742 [2140:2468:0430/105700.742:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:59:10.276 [8348:2704:0430/105910.276:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 10:59:12.791 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 11:13:50.649 [8348:2704:0430/111350.649:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:33:06.910 [7676:10744:0430/113306.910:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:33:09.220 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 11:35:49.673 [7676:10744:0430/113549.673:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:35:55.443 [976:968:0430/113555.443:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:35:58.229 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 11:48:09.473 [976:968:0430/114809.473:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:48:12.187 [2832:3392:0430/114812.187:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:48:14.407 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 11:48:14.867 [2832:3392:0430/114814.867:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:49:26.889 [7328:10092:0430/114926.889:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:49:29.113 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 11:52:41.159 [7328:10092:0430/115241.158:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:55:30.743 [10204:2468:0430/115530.742:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:55:33.08 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 11:55:36.912 [10204:2468:0430/115536.912:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+
+4월 30, 2024 11:57:17.112 NEW SESSION
+4월 30, 2024 11:57:17.112 [8496:11028:0430/115717.112:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:57:19.322 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 11:57:21.289 [8496:11028:0430/115721.289:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+
+4월 30, 2024 11:59:47.767 NEW SESSION
+4월 30, 2024 11:59:47.767 [2812:8028:0430/115947.767:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 11:59:49.991 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 11:59:50.640 [2812:8028:0430/115950.640:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 12:10:11.03 [10744:10892:0430/121011.003:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 12:10:13.927 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 12:19:42.923 [10744:10892:0430/121942.923:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 12:19:48.852 [6016:10072:0430/121948.852:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 12:19:51.131 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 12:32:28.159 [6016:10072:0430/123228.159:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 12:32:35.48 [8852:5376:0430/123235.048:ERROR:upgrade_util_win.cc(76)] CoCreate ProcessLauncherClass failed; hr = 80070002
+4월 30, 2024 12:32:37.262 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 12:56:56.747 [8852:5376:0430/125656.747:ERROR:device_event_log_impl.cc(192)] [12:56:56.746] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
